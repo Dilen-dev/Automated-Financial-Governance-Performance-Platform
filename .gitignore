@@ -1,0 +1,16 @@
+# Environments
+.env
+.env.*
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Power BI (Optional local exclude)
+*.pbix
